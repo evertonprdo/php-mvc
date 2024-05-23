@@ -1,0 +1,144 @@
+{
+    "categorias": [
+      {"id": 1, "nome": "Noiva"},
+      {"id": 2, "nome": "Casual"},
+      {"id": 3, "nome": "Elegante"},
+      {"id": 4, "nome": "Esportivo"},
+      {"id": 5, "nome": "Festas"},
+      {"id": 6, "nome": "Jeans"},
+      {"id": 7, "nome": "Social"},
+      {"id": 8, "nome": "Verão"},
+      {"id": 9, "nome": "Salto Alto"},
+      {"id": 10, "nome": "Inverno"},
+      {"id": 11, "nome": "Primavera"},
+      {"id": 12, "nome": "Rebelde"},
+      {"id": 13, "nome": "Moderno"},
+      {"id": 14, "nome": "Clássico"},
+      {"id": 15, "nome": "Boho"},
+      {"id": 16, "nome": "Formal"},
+      {"id": 17, "nome": "Descolado"},
+      {"id": 18, "nome": "Cocktail"}
+    ],
+    "itens": [
+      {
+        "id": 1,
+        "titulo": "Vestido de Noiva Elegante",
+        "texto": "Este deslumbrante vestido de noiva é feito sob medida para o dia mais especial da sua vida. Com detalhes delicados em renda e uma saia volumosa, ele proporciona uma aparência verdadeiramente elegante e romântica. Cada ponto é cuidadosamente trabalhado para garantir que você se sinta como uma princesa no seu grande dia.",
+        "categoria_id": 1
+      },
+      {
+        "id": 2,
+        "titulo": "Blazer Casual",
+        "texto": "Um blazer casual é uma peça essencial para qualquer guarda-roupa. Este blazer em particular é versátil e elegante, perfeito para adicionar um toque de sofisticação a qualquer look. Use-o com jeans para um visual descontraído ou sobre um vestido para uma ocasião mais formal. Seja qual for a sua escolha, este blazer é garantia de estilo.",
+        "categoria_id": 2
+      },
+      {
+        "id": 3,
+        "titulo": "Saia Midi Estilosa",
+        "texto": "Esta saia midi é uma escolha elegante para qualquer ocasião. Com um corte clássico e um tecido de alta qualidade, ela é confortável e estilosa ao mesmo tempo. Combine com uma blusa de seda para um visual mais formal ou com uma camiseta básica para um look mais casual. Seja como for, você vai se sentir confiante e na moda com esta saia.",
+        "categoria_id": 3
+      },
+      {
+        "id": 4,
+        "titulo": "Camiseta Esportiva",
+        "texto": "Feita com um tecido leve e respirável, esta camiseta esportiva é perfeita para suas atividades físicas. Seja na academia ou ao ar livre, ela proporciona conforto e liberdade de movimento. Seu design moderno e cores vibrantes garantem que você se destaque enquanto se exercita. Vista esta camiseta e esteja pronto para alcançar seus objetivos.",
+        "categoria_id": 4
+      },
+      {
+        "id": 5,
+        "titulo": "Vestido de Festa Glamoroso",
+        "texto": "Este deslumbrante vestido de festa é a definição de glamour. Com um corte impecável e detalhes luxuosos, ele é perfeito para ocasiões especiais. Seja um casamento, baile de formatura ou evento de gala, este vestido vai fazer você se sentir como uma estrela de cinema. Surpreenda a todos com sua elegância e sofisticação usando este vestido deslumbrante.",
+        "categoria_id": 5
+      },
+      {
+        "id": 6,
+        "titulo": "Calça Jeans Casual",
+        "texto": "Uma calça jeans casual é um item básico que não pode faltar no seu guarda-roupa. Esta calça em particular é confortável e estilosa, perfeita para uso diário. Com um corte moderno e lavagem clara, ela combina com uma variedade de tops e sapatos. Vista-se com esta calça jeans e esteja pronto para enfrentar o dia com estilo.",
+        "categoria_id": 6
+      },
+      {
+        "id": 7,
+        "titulo": "Blusa Social Clássica",
+        "texto": "Esta blusa social clássica é uma peça essencial para qualquer guarda-roupa profissional. Feita com um tecido de alta qualidade e um corte elegante, ela transmite uma imagem de sofisticação e profissionalismo. Combine com uma saia lápis para um look formal ou com calças de alfaiataria para um visual mais descontraído. Seja como for, você vai impressionar com esta blusa.",
+        "categoria_id": 7
+      },
+      {
+        "id": 8,
+        "titulo": "Shorts de Praia Confortáveis",
+        "texto": "Estes shorts de praia são perfeitos para dias ensolarados na areia. Feitos com um tecido leve e respirável, eles mantêm você fresco e confortável durante todo o dia. Seu design descontraído e cores vibrantes combinam perfeitamente com o clima de verão. Vista estes shorts, pegue sua toalha e esteja pronto para relaxar e se divertir na praia.",
+        "categoria_id": 8
+      },
+      {
+        "id": 9,
+        "titulo": "Sapatos de Salto Alto Clássicos",
+        "texto": "Estes sapatos de salto alto são uma escolha clássica e elegante para qualquer ocasião formal. Com um design atemporal e um salto confortável, eles proporcionam estilo e conforto ao mesmo tempo. Use-os com um vestido de festa para um evento especial ou com um terno para um look profissional. Seja qual for a sua escolha, estes sapatos vão elevar seu estilo a novos patamares.",
+        "categoria_id": 9
+      },
+      {
+        "id": 10,
+        "titulo": "Cardigã de Tricô Aconchegante",
+        "texto": "Este cardigã de tricô é perfeito para os dias mais frios do ano. Feito com um tricô macio e aconchegante, ele mantém você quente e confortável em grande estilo. Seu design clássico e cores neutras fazem dele uma peça versátil que combina com qualquer look. Vista este cardigã, aconchegue-se e aproveite o conforto que ele proporciona.",
+        "categoria_id": 10
+      },
+      {
+        "id": 11,
+        "titulo": "Vestido Midi Floral",
+        "texto": "Este encantador vestido midi é perfeito para os dias de primavera e verão. Com um estampa floral delicada e uma silhueta feminina, ele é uma escolha elegante para diversas ocasiões. Use-o com sandálias para um visual casual ou com sapatos de salto para uma ocasião mais especial. Seja como for, este vestido vai adicionar um toque de romantismo ao seu estilo.",
+        "categoria_id": 11
+      },
+      {
+        "id": 12,
+        "titulo": "Jaqueta de Couro Rebelde",
+        "texto": "Esta jaqueta de couro é uma escolha ousada para os amantes de estilo rebelde. Com seu design clássico e detalhes de zíper, ela adiciona um toque de atitude a qualquer look. Use-a com jeans rasgados para um visual mais despojado ou sobre um vestido para um contraste interessante. Seja qual for a sua escolha, esta jaqueta vai garantir que você se destaque na multidão.",
+        "categoria_id": 12
+      },
+      {
+        "id": 13,
+        "titulo": "Macacão Pantacourt Moderno",
+        "texto": "Este moderno macacão pantacourt é uma peça-chave para um guarda-roupa contemporâneo. Com seu corte elegante e comprimento cropped, ele é perfeito para criar looks estilosos e confortáveis. Use-o com tênis para um visual mais descontraído ou com saltos para uma ocasião especial. Seja como for, este macacão vai garantir que você esteja na moda onde quer que vá.",
+        "categoria_id": 13
+      },
+      {
+        "id": 14,
+        "titulo": "Blusa de Tricô Quentinha",
+        "texto": "Esta blusa de tricô é essencial para os dias frios de inverno. Feita com um tricô grosso e quentinho, ela mantém você aquecido e confortável mesmo nos dias mais gelados. Seu design clássico e cores neutras fazem dela uma peça versátil que combina com qualquer look. Vista esta blusa, aconchegue-se e aproveite o inverno com muito estilo.",
+        "categoria_id": 10
+      },
+      {
+        "id": 15,
+        "titulo": "Camisa Polo Tradicional",
+        "texto": "Uma camisa polo é um clássico do guarda-roupa masculino. Esta camisa em particular é feita com um piquet de alta qualidade, proporcionando conforto e estilo ao mesmo tempo. Use-a com shorts para um visual descontraído ou com calças chino para um look mais arrumado. Seja como for, esta camisa polo vai garantir que você esteja sempre bem vestido.",
+        "categoria_id": 14
+      },
+      {
+        "id": 16,
+        "titulo": "Vestido Estampado Boho",
+        "texto": "Este encantador vestido estampado é perfeito para os amantes do estilo boho. Com sua estampa vibrante e silhueta solta, ele transmite uma vibe descontraída e cheia de personalidade. Use-o com sandálias rasteiras e acessórios de inspiração étnica para um look completo. Seja como for, este vestido vai garantir que você se destaque com seu estilo único.",
+        "categoria_id": 15
+      },
+      {
+        "id": 17,
+        "titulo": "Sapatos Oxford Elegantes",
+        "texto": "Estes sapatos oxford são uma escolha elegante para qualquer ocasião formal. Com seu design clássico e acabamento em couro de alta qualidade, eles proporcionam estilo e conforto ao mesmo tempo. Use-os com um terno para um evento especial ou com calças de alfaiataria para o trabalho. Seja qual for a sua escolha, estes sapatos vão adicionar um toque de sofisticação ao seu visual.",
+        "categoria_id": 16
+      },
+      {
+        "id": 18,
+        "titulo": "Top Cropped Descolado",
+        "texto": "Este top cropped é perfeito para quem gosta de um visual descolado e moderno. Com seu comprimento curto e design ajustado, ele é ideal para combinar com saias e calças de cintura alta. Use-o com jeans rasgados para um look mais casual ou com uma saia lápis para uma ocasião especial. Seja como for, este top vai garantir que você esteja na moda.",
+        "categoria_id": 17
+      },
+      {
+        "id": 19,
+        "titulo": "Blazer de Linho Leve",
+        "texto": "Este blazer de linho é uma escolha elegante para os dias mais quentes do ano. Com seu tecido leve e respirável, ele mantém você fresco e confortável em grande estilo. Use-o com uma camiseta branca e calças de alfaiataria para um visual casual chique. Seja qual for a sua escolha, este blazer vai adicionar um toque de sofisticação ao seu guarda-roupa de verão.",
+        "categoria_id": 8
+      },
+      {
+        "id": 20,
+        "titulo": "Vestido de Cocktail Charmoso",
+        "texto": "Este charmoso vestido de cocktail é perfeito para uma noite especial. Com seu corte elegante e detalhes delicados, ele transmite uma vibe sofisticada e feminina. Use-o com saltos altos e uma clutch para um look completo. Seja qual for a ocasião, este vestido vai garantir que você se destaque com seu estilo impecável.",
+        "categoria_id": 18
+      }
+    ]
+  }  
